@@ -1,0 +1,9 @@
+INSERT INTO Fine (MemberID, Amount) VALUES ("A101A", 0);
+INSERT INTO Fine (MemberID, Amount) VALUES ("A201B", 0);
+INSERT INTO Fine (MemberID, Amount) VALUES ("A301C", 0);
+INSERT INTO Fine (MemberID, Amount) VALUES ("A401D", 0);
+INSERT INTO Fine (MemberID, Amount) VALUES ("A5101E", 0);
+INSERT INTO Fine (MemberID, Amount) VALUES ("A601F", 0);
+INSERT INTO Fine (MemberID, Amount) VALUES ("A701G", 0);
+INSERT INTO Fine (MemberID, Amount) VALUES ("A801H", 0);
+INSERT INTO Fine (MemberID, Amount) VALUES ("A901I", 0);
